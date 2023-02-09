@@ -137,14 +137,14 @@ h6 {
   font-size: 22px;
   line-height: 36px;
 }
-.preface__batton {
+.preface__button {
   margin-top: 41px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   gap: 20px;
 }
-.preface__batton_transparent {
+.preface__button_transparent {
   width: 207px;
   height: 51px;
   padding: 19px 20px;
@@ -159,7 +159,7 @@ h6 {
   line-height: 15px;
   text-align: center;
 }
-.preface__batton_transparent:hover {
+.preface__button_transparent:hover {
   background-color: #e3b873;
 
   border: none;
@@ -438,12 +438,12 @@ h6 {
   font-size: 14px;
   line-height: 23px;
 }
-.batton_form {
+.button_form {
   width: 200px;
   height: 51px;
   padding: 18px 33px;
 }
-.batton_form-mobil {
+.button_form-mobil {
   display: none;
 }
 .input__text {
@@ -773,7 +773,7 @@ h6 {
 .lable-order__checkbox {
   margin-top: 16px;
 }
-.batton_order {
+.button_order {
   width: 213px;
   height: 51px;
   margin-top: 39px;
@@ -1139,7 +1139,7 @@ h6 {
   -ms-flex-pack: center;
   justify-content: center;
 }
-.batton-question {
+.button-question {
   margin: 50px auto 0;
 }
 
@@ -1218,14 +1218,14 @@ h6 {
     font-size: 14px;
     line-height: 19px;
   }
-  .preface__batton {
+  .preface__button {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
     gap: 26px;
   }
-  .preface__batton_transparent {
+  .preface__button_transparent {
     width: 100%;
   }
   /* projects */
@@ -1362,7 +1362,7 @@ h6 {
   .checkbox__text {
     color: #ffffff;
   }
-  .batton_form-mobil {
+  .button_form-mobil {
     width: 100%;
     display: block;
     margin: 0 auto -35px;
