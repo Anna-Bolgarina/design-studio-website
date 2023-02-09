@@ -8,6 +8,7 @@
 *,
 *::before,
 *::after {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -96,6 +97,8 @@ input::-ms-clear {
 button,
 input[type="submit"] {
   display: inline-block;
+
+  -webkit-box-shadow: none;
 
   box-shadow: none;
   background-color: transparent;
